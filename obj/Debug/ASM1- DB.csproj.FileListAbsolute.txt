@@ -1,0 +1,20 @@
+D:\C#\ASM1- DB\bin\Debug\ASM1- DB.exe.config
+D:\C#\ASM1- DB\bin\Debug\ASM1- DB.exe
+D:\C#\ASM1- DB\bin\Debug\ASM1- DB.pdb
+D:\C#\ASM1- DB\obj\Debug\ASM1- DB.csproj.AssemblyReference.cache
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form1.resources
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Properties.Resources.resources
+D:\C#\ASM1- DB\obj\Debug\ASM1- DB.csproj.GenerateResource.cache
+D:\C#\ASM1- DB\obj\Debug\ASM1- DB.csproj.CoreCompileInputs.cache
+D:\C#\ASM1- DB\obj\Debug\ASM1- DB.exe
+D:\C#\ASM1- DB\obj\Debug\ASM1- DB.pdb
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form2.resources
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form3.resources
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form4.resources
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form5.resources
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form6.resources
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form7.resources
+D:\C#\ASM1- DB\bin\Debug\System.Data.SqlClient.dll
+D:\C#\ASM1- DB\bin\Debug\System.Data.SqlClient.xml
+D:\C#\ASM1- DB\obj\Debug\ASM1- DB.csproj.Up2Date
+D:\C#\ASM1- DB\obj\Debug\ASM1__DB.Form8.resources
